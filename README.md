@@ -1,5 +1,15 @@
-### Hi there 👋
+### Hi there 👋, I'm Shawn Sun - a guitarist 🎸, coder 💻, skier 🎿
 
+### Connect with me:
+
+[<img align="left" alt="Bilibili" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/bilibili.svg" />][bilibili]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+[bilibili]: https://space.bilibili.com/114859
+[instagram]: https://www.instagram.com/shawnzhesun 
+[linkedin]: https://www.linkedin.com/in/sunzhe/
 <!--
 **shawnzhesun/shawnzhesun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
