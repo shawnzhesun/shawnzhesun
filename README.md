@@ -5,11 +5,10 @@
 - I'm current working at [C3 AI](https://c3.ai) as a lead engineer and a manager
 - I'm interested in all cool and fun technologies which make our life better
 
-### 2022 Goals
+### 2023 Goals
 
-- Start creating my own audio plugins
-- Debut my second album (progressive rock)
 - Stay healthy
+- Make AI code for me
 
 ### Connect with me:
 
