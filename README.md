@@ -5,7 +5,7 @@
 - I'm current working at [C3 AI](https://c3.ai) as a lead engineer and a manager
 - I'm interested in all cool and fun technologies which make our life better
 
-### 2023 Goals
+### 2024 Goals
 
 - Stay healthy
 - Make AI code for me
