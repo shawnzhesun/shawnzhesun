@@ -2,7 +2,7 @@
 
 ### About me:
 
-- I'm current working at [C3 AI](https://c3.ai) as a lead engineer and a manager
+- I'm current working at [Scale AI](https://scale.com/) as an engineering manager
 - I'm interested in all cool and fun technologies which make our life better
 
 ### 2024 Goals
