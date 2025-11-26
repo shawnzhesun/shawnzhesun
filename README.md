@@ -5,10 +5,10 @@
 - I'm current working at [Scale AI](https://scale.com/) as an engineering manager
 - I'm interested in all cool and fun technologies which make our life better
 
-### 2024 Goals
+### 2025 Goals
 
 - Stay healthy
-- Make AI code for me
+- Publish a new song
 
 ### Connect with me:
 
